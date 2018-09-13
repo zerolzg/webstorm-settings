@@ -1,7 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Eclipse code formatter info" displayType="NONE" shouldLog="false" />
-    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
     <notification groupId="Markdown Navigator License" shouldLog="false" />
     <notification groupId="Markdown Navigator Update" shouldLog="false" />
     <notification groupId="Platform and Plugin Updates" displayType="NONE" shouldLog="false" />
