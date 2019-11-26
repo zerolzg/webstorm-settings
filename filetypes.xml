@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="icon" type="Image" />
+      <mapping pattern="Hexo批量修改文章的分类和标签" type="Markdown" />
+      <mapping pattern="Oracle学习之触发器的使用" type="Markdown" />
+      <mapping pattern="Hexo批量修改文章的分类和标签.md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
